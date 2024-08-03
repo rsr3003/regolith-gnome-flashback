@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQbyEAjm114_uL5ujX2bpWznVjzka0Js7P8pdPjSDEKd8=s160-c-k-c0x00ffffff-no-rj", Jamuna TV
+https://yt2hls.ogmined2.workers.dev/@JamunaTVbd.m3u8
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s900-c-k-c0x00ffffff-no-rj", Somoy TV
+https://yt2hls.ogmined2.workers.dev/@somoynews360.m3u8
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://yt3.googleusercontent.com/5J5NFuXWxr4iUv3nxWF0genblTzZ8wU5N9NjxvZdOKkGs1U3Y_KqrojCJ5Id4N9pFeIZ3uyCKkk=s160-c-k-c0x00ffffff-no-rj", Independent TV
+https://yt2hls.ogmined2.workers.dev/@IndependentTelevision.m3u8
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s160-c-k-c0x00ffffff-no-rj", Channel 24
+https://yt2hls.ogmined2.workers.dev/@channel24digital.m3u8
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mcjICfjqYwOn4eljNmtsZLBpOmW0t0JlzJUhXSslAkBVo=s900-c-k-c0x00ffffff-no-rj", DBC
+https://yt2hls.ogmined2.workers.dev/@dbcnewstv.m3u8
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://yt3.googleusercontent.com/uhGad55HCzzfNO4xSj91zoWBWnfKAFTmv4ibYFsJNhRPFmakBmB47HgNdDyLsmuLY67VAi3fRg=s900-c-k-c0x00ffffff-no-rj", NEWS24
+https://yt2hls.ogmined2.workers.dev/@dailynews24x7daily.m3u8
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://yt3.googleusercontent.com/P8XVWOQZ2Eel4CqqOeNbt-aPv2cahpsShVCFGoZZA01jzfXGT3hl_BfHq-qrxmp922j64iq_=s900-c-k-c0x00ffffff-no-rj", ATN News
+https://yt2hls.ogmined2.workers.dev/@ATNNewsLive.m3u8
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://yt3.googleusercontent.com/KoJ2pT4X6j0kPf8g8MRv5MaRVR_ZRW18Fyb_U0U7azCr10kQEtpY5GIz3M9GZ0ZQazfGaP9I=s160-c-k-c0x00ffffff-no-rj", Ekattor TV
+https://yt2hls.ogmined2.workers.dev/@EkattorTelevision.m3u8
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://th.bing.com/th/id/OIP.4vGrVeVnt3r_jXdBc4zvbgAAAA?rs=1&pid=ImgDetMain", RTV
+https://yt2hls.ogmined2.workers.dev/@RtvNews.m3u8
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://yt3.googleusercontent.com/Fw5RlqUOn5ulbepVY8VU7BfJOc2E3_FqTuAJiSsgqAkeYWwF7_8QQjsbtvTAHpQGskYIh--WrQ=s900-c-k-c0x00ffffff-no-rj", Channel I
+https://yt2hls.ogmined2.workers.dev/@ChanneliNews.m3u8
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://yt3.googleusercontent.com/oG8z-BPo2bbfUxta79CTDiK0PLBJMp329D0v3aJTT44F8YAP1SwYBfL9pC2fTVljqkdlHMZUOpw=s900-c-k-c0x00ffffff-no-rj", Ekhon TV
+https://yt2hls.ogmined2.workers.dev/@ekhontv.m3u8
+
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://yt3.googleusercontent.com/HtcIur2vV82gl0v3BQmSnHjaL7X1wpx4d80z3VKHhu-UNUNHMAlwo_AhoRzqU1b-a1JHXIa6sw=s900-c-k-c0x00ffffff-no-rj", Desh TV
+https://yt2hls.ogmined2.workers.dev/@livedeshtv.m3u8
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/dF1ZRcwWOxfn3AysqfW-MMIod2jPfCfgFkMLYiQWGMOiELVA7-nWN7PaXnEv1RfVxRe5S9z36ow=s900-c-k-c0x00ffffff-no-rj", Fox
+https://yt2hls.ogmined2.workers.dev/c/livenowfox.m3u8
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s900-c-k-c0x00ffffff-no-rj", Sky News
+https://yt2hls.ogmined2.workers.dev/@SkyNews.m3u8
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/3fbjZ6CAJl7Y7ii8qo0C4VEd_zcsC3-zrB0Nw5MW--VZmga15wtwwTBmePBRAPl3vCSFRoQq1Q=s900-c-k-c0x00ffffff-no-rj", Al Jazeera
+https://yt2hls.ogmined2.workers.dev/@aljazeeraenglish.m3u8
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/9QATDXAANCn4Z5pqMiRj54aYxsZza-nHbKGk6mmEfVfEPp5bsfwHXBzG8XIcJizrT4Ed67RY=s900-c-k-c0x00ffffff-no-rj", GBNews
+https://yt2hls.ogmined2.workers.dev/@GBNewsOnline.m3u8
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/LktbHn38RP1PFW1aBa0h9yXr0c9uEkRpOX7kqVPsb3R6RQ4vK1j696q-MbR51uaGcEjHHqfSKxw=s900-c-k-c0x00ffffff-no-rj", TalkTV
+https://yt2hls.ogmined2.workers.dev/@talktv.m3u8
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/t3slq37NYJRuP2UoEZDoPKyMClKyQULG8-j2DEfzL1XXcBvFpR6z6HD7rtc0wDn8Mqt0OtpU=s900-c-k-c0x00ffffff-no-rj", euronews
+https://yt2hls.ogmined2.workers.dev/@euronews.m3u8
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/w5ls-zGHOJYlOOYIi6K_9Hjjbh2XGoM2SYFvL8KuOrk8BJ8G_XFW8d2lYjjd4Gq9INwsARLk0Q=s900-c-k-c0x00ffffff-no-rj", DW
+https://yt2hls.ogmined2.workers.dev/@dwnews.m3u8
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/GjDLYFGF4IQaUobUK-6q3nOsU4o8fRMl4XgVipPWRqdRVt61s2LqgnbBXu3-qYL4Ab2xsfVo=s900-c-k-c0x00ffffff-no-rj", NBC News
+https://yt2hls.ogmined2.workers.dev/@NBCNews.m3u8
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s900-c-k-c0x00ffffff-no-rj", ABC News
+https://yt2hls.ogmined2.workers.dev/@ABCNews.m3u8
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/al5a-TjybDtOQrBzpxpLkrG9uMTWpofw43Al81L5I9szAzZ8IutjqVVO8pH_RXb6CRim9lHMMw=s900-c-k-c0x00ffffff-no-rj", Mr Bean
+https://yt2hls.ogmined2.workers.dev/@ClassicMrBean.m3u8
